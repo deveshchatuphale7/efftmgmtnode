@@ -11,8 +11,13 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": " node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "10.x",
+    "npm": "6.4.1"
+  }
 }
